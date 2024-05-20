@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426283903384",
+    "project_id": "cs-quizland-91093",
+    "storage_bucket": "cs-quizland-91093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426283903384:android:a106dc1104de301c69e3ed",
+        "android_client_info": {
+          "package_name": "com.example.cs_quizland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbVTkEOJA5ENSA35PSJn04bq_TztkNhfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
